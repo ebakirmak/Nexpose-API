@@ -56,10 +56,10 @@ namespace Nexpose_API.View
                     }
                     else if (selected == "H")
                     {
-                        IP = "128.199.32.61";
+                        IP = "ip address";
                         Port = 3780;
-                        Username = "ebakirmak";
-                        Password = "*0209*1903biaic";
+                        Username = "uname";
+                        Password = "pass";
                         break;
                     }
 
