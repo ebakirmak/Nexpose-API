@@ -1,0 +1,12 @@
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose-API\bin\Debug\Nexpose-API.exe.config
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose-API\bin\Debug\Nexpose-API.exe
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose-API\bin\Debug\Nexpose-API.pdb
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose-API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose-API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose-API\obj\Debug\Nexpose-API.csprojResolveAssemblyReference.cache
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose-API\obj\Debug\Nexpose-API.csproj.CoreCompileInputs.cache
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose-API\obj\Debug\Nexpose-API.csproj.CopyComplete
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose-API\obj\Debug\Nexpose-API.exe
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose-API\obj\Debug\Nexpose-API.pdb
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose-API\bin\Debug\Nexpose.dll
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose-API\bin\Debug\Nexpose.pdb

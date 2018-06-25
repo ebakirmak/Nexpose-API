@@ -1,0 +1,6 @@
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose\bin\Debug\Nexpose.dll
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose\bin\Debug\Nexpose.pdb
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose\obj\Debug\Nexpose.csprojResolveAssemblyReference.cache
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose\obj\Debug\Nexpose.csproj.CoreCompileInputs.cache
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose\obj\Debug\Nexpose.dll
+C:\Users\emreakirmak\source\repos\Nexpose-API\Nexpose\obj\Debug\Nexpose.pdb
